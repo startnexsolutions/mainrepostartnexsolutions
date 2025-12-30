@@ -1,0 +1,23 @@
+{
+  "name": "digital-marketing-king",
+  "version": "1.0.0",
+  "description": "Digital Marketing Agency Website with Advanced Animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html",
+    "build": "echo 'Build complete'",
+    "dev": "live-server --port=3000 --watch=index.html,styles.css,script.js"
+  },
+  "keywords": [
+    "digital-marketing",
+    "seo",
+    "responsive",
+    "animations"
+  ],
+  "author": "Digital Marketing King",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
